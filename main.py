@@ -4,8 +4,8 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 # MySQL connection parameters
-host = '35.200.184.177'
-user = 'dipali'
+host = '35.223.244.213'
+user = 'root'
 password = 'root'
 database = 'demo'
 port = 3306
